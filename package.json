@@ -1,0 +1,10 @@
+{
+  "name": "unrar-binaries",
+  "description": "UnRAR binaries for Windows, Linux and macOS",
+  "keywords": ["unrar", "rar", "archive"],
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "os": ["win32", "linux", "darwin"],
+  "cpu": ["x64", "ia32", "arm"]
+}
